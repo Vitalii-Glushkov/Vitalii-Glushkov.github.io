@@ -1,4 +1,4 @@
-WWW.MATHISFUN.COM
+HTTP://VITALII-GLUSHKOV.GITHUB.IO/
 ===
 
 ИСПОЛЬЗОВАННЫЕ ТЕХНОЛОГИИ, КОРОТКОЕ ОПИСАНИЕ, ISSUES
